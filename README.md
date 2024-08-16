@@ -11,6 +11,8 @@ Dieser Github-Eintrag beinhaltet folgende Dateien:
 
 4. Die gesamte, fertige Maturaarbeit als PDF-Datei
 
+5. Die endgültigen Messwerte der Boote, welche anschliessend für die Polardiagramme genutzt wurden. 
+
 ![Polarplot_Beispiel](https://github.com/user-attachments/assets/14286a1e-c8cb-4bb8-9ec3-7ba95f02e206)
 
 ![Bladerider_Rocket2](https://github.com/user-attachments/assets/573b19f4-3609-4181-9619-920105914511)
