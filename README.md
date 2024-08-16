@@ -9,6 +9,8 @@ Dieser Github-Eintrag beinhaltet folgende Dateien:
 
 3. Das Python-Programm zum erstellen des Polardiagramms. Dieses ist ursprünglich von ChatGPT generiert worden und anschliessend geändert worden. Der Chatverlauf mit ChatGPT zusammen mit der ursprünglichen Version des Programms befindet sich hier: https://chatgpt.com/share/73f3ed52-0085-4413-8042-ad64e577ea5b
 
+4. Die gesamte, fertige Maturaarbeit als PDF-Datei
+
 ![Polarplot_Beispiel](https://github.com/user-attachments/assets/14286a1e-c8cb-4bb8-9ec3-7ba95f02e206)
 
 ![Bladerider_Rocket2](https://github.com/user-attachments/assets/573b19f4-3609-4181-9619-920105914511)
