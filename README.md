@@ -22,12 +22,19 @@ Dieser Github-Eintrag beinhaltet folgende Dateien:
 
 # Quellenverzeichnis Vortrag
 
-## Quellen zu verwendeten Bildern:
+### Quellen zu verwendeten Bildern:
+(Mit Titel der jeweiligen Folien)
+
+ * Titelfolie: https://69f.smugmug.com/69F-MEDIA-CENTER/2023/69F-EUROPE/YFGC-LA-GRANDE-MOTTE/PHOTO/TRAINING-DAY-BY-DIDIER-HILLAIRE
+ * Motivation: Eigene Aufnahmen
+ * Hydrofoils: https://www.boote.com/artikel/35190/wird-der-imoca-charal-der-fliegende-stier-den-vendee-globe-2020-gewinnen, https://www.catsailingnews.com/2024/08/nacra-17-2024-olympics-day-1-results.html, https://www.tagesanzeiger.ch/alinghi-am-americas-cup-die-kleine-schwester-fliegt-mit-autopilot-367811390315
+ * Funktion Hydrofoiling: https://www.yachtingworld.com/special-reports/the-foiling-phenomenon-66269, https://web.mit.edu/2.972/www/reports/hydrofoil/hydrofoil.html, https://www.yachtsandyachting.com/news/231729/Persico-69F-Grand-Prix-21-in-Malcesine-overall, eigene Aufnahme (Bladerider umgedreht)
+ * International Class Moth: Alan Hillman. (2018). The Foiling Dinghy Book- Dinghy Foiling from Start to nish. S. 23, Alan Hillman. (2018). The Foiling Dinghy Book- Dinghy Foiling from Start to nish. S. 24, https://abyc.co.za/page/2505/?blog=1&page=1&disp=posts, eigene Aufnahme (Bladerider auf Wiese)
+ * Methodik: https://de.m.wikipedia.org/wiki/Datei:Downwind_polar_diagram_to_determine_velocity_made_good_at_various_wind_speeds.jpg, https://www.marconyachting.com/en/skiff-ovington/1174-29er-complete-boat-with-everything-needed-to-sail.html, http://www.sailingace.com/segellexikon/d/segelstellungen/segelstellungen.htm, eigene Aufnahme (Sailmon), Polardiagramme sind alles eigene Aufnahmen
+ * Schlussfolie: https://alinghiredbullracing.americascup.com/latest/media
 
 
-
-
-## Quellen zu verwendeten Informationen (allenfalls im Vortrag erwähnt):
+### Quellen zu verwendeten Informationen (allenfalls im Vortrag erwähnt):
 
  * https://www.extremesailingseries.com/about/guide-to-foiling //foiling allg.//
   * https://sailgp.com/news/23/watch-how-f50-foils-work/ //foiling F50 series//
