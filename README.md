@@ -1,5 +1,5 @@
 # Maturaarbeit-Eric-Pernet
-Dies ist die offizielle Sammlung der csv-Dateien, Excel-dateien als auch Python scrips zur Maturaarbeit von Eric Pernet "Die Physik des Hydrofoiling im Segelsport" 2024
+Dies ist die offizielle Sammlung der csv-Dateien, Excel-dateien als auch Python scrips zur Maturaarbeit von Eric Pernet "Die Physik der Hydrofoils im Segelsport" 2024
 
 Dieser Github-Eintrag beinhaltet folgende Dateien:
 
