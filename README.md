@@ -22,12 +22,12 @@ Dieser Github-Eintrag beinhaltet folgende Dateien:
 
 # Quellenverzeichnis Vortrag
 
-Quellen zu verwendeten Bildern:
+## Quellen zu verwendeten Bildern:
 
 
 
 
-Quellen zu verwendeten Informationen (allenfalls im Vortrag erwähnt):
+## Quellen zu verwendeten Informationen (allenfalls im Vortrag erwähnt):
 
  * https://www.extremesailingseries.com/about/guide-to-foiling //foiling allg.//
   * https://sailgp.com/news/23/watch-how-f50-foils-work/ //foiling F50 series//
